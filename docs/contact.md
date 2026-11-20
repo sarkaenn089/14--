@@ -49,12 +49,9 @@
 ---
 
 ## 6. Гарын үсэг ба огноо
-1. Б.Сарангэрэл — <img src="../imeges/Сарангэрэл.jpg" width="120" alt="Сарангэрэл гарын үсэг">
-
-2. Г.Даваасүрэн — <img src="../imeges/Даваасүрэн.jpg" width="120" alt="Даваасүрэн гарын үсэг">
-
-3. М.Зулаа — <img src="../imeges/Зулаа.jpg" width="120" alt="Зулаа гарын үсэг">
-
-4. Б.Гурван-Эрдэнэ — <img src="../imeges/Гурван-Эрдэнэ.jpg" width="120" alt="Гурван-Эрдэнэ гарын үсэг">
+1. Б.Сарангэрэл — <img src="../imeges/Сарангэрэл.jpg" width="110" style="vertical-align: middle;" alt="Сарангэрэл гарын үсэг">
+2. Г.Даваасүрэн — <img src="../imeges/Даваасүрэн.jpg" width="110" style="vertical-align: middle;" alt="Даваасүрэн гарын үсэг">
+3. М.Зулаа — <img src="../imeges/Зулаа.jpg" width="110" style="vertical-align: middle;" alt="Зулаа гарын үсэг">
+4. Б.Гурван-Эрдэнэ — <img src="../imeges/Гурван-Эрдэнэ.jpg" width="110" style="vertical-align: middle;" alt="Гурван-Эрдэнэ гарын үсэг">
 
 **Огноо:** 2026.11.11
